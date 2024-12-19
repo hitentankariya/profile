@@ -1,5 +1,8 @@
 # Skills & Experience
 
+## Lifetime Commits
+![GitHub Commit Activity](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=default)
+
 ## Skills
 - Laravel
 - CodeIgniter
