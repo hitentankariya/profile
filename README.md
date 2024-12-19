@@ -1,14 +1,10 @@
 ﻿HITEN **TANKARIYA** 
 
-POOJA PARK STREET NO-2, “Boot Bhavani Krupa”, BEHIND HUDAKO POLICE STATION, KOTHARIYA MAIN ROAD, RAJKOT-2, 360002 · +919510784104 
-
-**htankariya4@gmail.com ![](Aspose.Words.c2da3ac1-73e1-4bc6-bc69-8b12bd2289c2.001.png)**
-
 Highly skilled and experienced Web Developer with professional expertise in Laravel, CodeIgniter (CI), WordPress, and specializing in Shopify development. Adept at designing and implementing scalable, robust web applications and e-commerce platforms. Strong background in full-stack development, API integration, and delivering client-focused solutions. **Proficient in professional English communication**, enabling effective collaboration with clients and team members globally. 
 
 **EXPERIENCE** 
 
-**JULY 2022 – CURRENT ![](Aspose.Words.c2da3ac1-73e1-4bc6-bc69-8b12bd2289c2.002.png)**
+**JULY 2022 – CURRENT
 
 **SENIOR LARAVEL DEVELOPER,** OPENMALO TECHNOLOGIES 
 
@@ -28,7 +24,7 @@ Performed customizations and optimization for **WordPress** to enhance website p
 
 Collaborated across cross-functional teams to plan, execute, and deploy solutions that drive business value. 
 
-**OCT 2021 – JULY 2022 ![](Aspose.Words.c2da3ac1-73e1-4bc6-bc69-8b12bd2289c2.003.png)**
+**OCT 2021 – JULY 2022
 
 **JUNIOR LARAVEL DEVELOPER,** NEXTUP SOCIAL 
 
@@ -42,7 +38,7 @@ Optimized application performance by resolving bottlenecks and debugging existin
 
 Gained in-depth knowledge of Laravel's ecosystem, including Eloquent ORM, Blade templating, and middleware. 
 
-**JULY 2019 – AUG 2021 ![](Aspose.Words.c2da3ac1-73e1-4bc6-bc69-8b12bd2289c2.005.png)**
+**JULY 2019 – AUG 2021
 
 **JUNIOR LARAVEL DEVELOPER,** TRETANZ INFOTECH 
 
@@ -58,7 +54,7 @@ Worked on multiple projects that enhanced technical and problem-solving skills, 
 
 **EDUCATION** 
 
-**2016-2019 ![](Aspose.Words.c2da3ac1-73e1-4bc6-bc69-8b12bd2289c2.006.png)**
+**2016-2019
 
 **Bsc. it,** GEETANJALI COLLEGE **2015-2016** 
 
@@ -72,5 +68,3 @@ Worked on multiple projects that enhanced technical and problem-solving skills, 
 - Shopify 
 - Bootstrap 4 & 5 
 - Responsive Web Design. 
-
-2 
