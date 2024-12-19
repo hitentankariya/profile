@@ -30,7 +30,7 @@ Collaborated across cross-functional teams to plan, execute, and deploy solution
 
 Focused exclusively on developing web applications using the **Laravel** framework. 
 
-Built and maintained modular and efficient back-end systems to support client-specific  ![](Aspose.Words.c2da3ac1-73e1-4bc6-bc69-8b12bd2289c2.004.png)functionalities. 
+Built and maintained modular and efficient back-end systems to support client-specific functionalities. 
 
 Collaborated with senior developers to integrate third-party APIs and implement robust database solutions. 
 
