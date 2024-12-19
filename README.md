@@ -1,12 +1,8 @@
-﻿HITEN **TANKARIYA** 
+﻿﻿HITEN **TANKARIYA** 
 
 Highly skilled and experienced Web Developer with professional expertise in Laravel, CodeIgniter (CI), WordPress, and specializing in Shopify development. Adept at designing and implementing scalable, robust web applications and e-commerce platforms. Strong background in full-stack development, API integration, and delivering client-focused solutions. **Proficient in professional English communication**, enabling effective collaboration with clients and team members globally. 
 
 **EXPERIENCE** 
-
-**JULY 2022 – CURRENT
-
-**SENIOR LARAVEL DEVELOPER,** OPENMALO TECHNOLOGIES 
 
 Developed and maintained scalable web applications using **Laravel, Codeigniter** and **WordPress**, delivering high-quality, client-specific solutions. 
 
@@ -24,10 +20,6 @@ Performed customizations and optimization for **WordPress** to enhance website p
 
 Collaborated across cross-functional teams to plan, execute, and deploy solutions that drive business value. 
 
-**OCT 2021 – JULY 2022
-
-**JUNIOR LARAVEL DEVELOPER,** NEXTUP SOCIAL 
-
 Focused exclusively on developing web applications using the **Laravel** framework. 
 
 Built and maintained modular and efficient back-end systems to support client-specific functionalities. 
@@ -38,10 +30,6 @@ Optimized application performance by resolving bottlenecks and debugging existin
 
 Gained in-depth knowledge of Laravel's ecosystem, including Eloquent ORM, Blade templating, and middleware. 
 
-**JULY 2019 – AUG 2021
-
-**JUNIOR LARAVEL DEVELOPER,** TRETANZ INFOTECH 
-
 Began my career as a Full Stack Developer, working primarily with **Laravel** and **WordPress**. 
 
 Developed dynamic and user-friendly websites and web applications, delivering tailored solutions for clients. 
@@ -51,14 +39,6 @@ Gained hands-on experience in front-end and back-end development, focusing on cl
 Collaborated closely with design and QA teams to ensure high-quality deliverables within tight deadlines. 
 
 Worked on multiple projects that enhanced technical and problem-solving skills, laying a solid foundation for my professional growth. 
-
-**EDUCATION** 
-
-**2016-2019
-
-**Bsc. it,** GEETANJALI COLLEGE **2015-2016** 
-
-**HSC BORAD, GYANDEEP SCHOOLS** 
 
 **SKILLS** 
 
