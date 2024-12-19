@@ -58,7 +58,7 @@ Worked on multiple projects that enhanced technical and problem-solving skills, 
 
 **Bsc. it,** GEETANJALI COLLEGE **2015-2016** 
 
-**HSC BORAD,** GYANDEEP SCHOOLS** 
+**HSC BORAD, GYANDEEP SCHOOLS** 
 
 **SKILLS** 
 
