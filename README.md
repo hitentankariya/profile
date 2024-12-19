@@ -1,7 +1,7 @@
 # Skills & Experience
 
 ## Lifetime Commits
-![GitHub Commit Activity](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=default)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hitentankariya&bg_color=ffffff&color=000000&line=00bfff&point=00bfff&area=true&hide_border=true)
 
 ## Skills
 - Laravel
