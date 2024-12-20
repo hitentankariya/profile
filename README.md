@@ -1,50 +1,69 @@
-﻿﻿HITEN **TANKARIYA** 
+# 👨‍💻 Hiten Tankariya  
 
-Highly skilled and experienced Web Developer with professional expertise in Laravel, CodeIgniter (CI), WordPress, and specializing in Shopify development. Adept at designing and implementing scalable, robust web applications and e-commerce platforms. Strong background in full-stack development, API integration, and delivering client-focused solutions. **Proficient in professional English communication**, enabling effective collaboration with clients and team members globally. 
+Hi there! 👋  
+I'm **Hiten Tankariya**, a passionate **Full-Stack Developer** with **6+ years of experience** in crafting robust applications and seamless integrations. 🚀  
 
-**EXPERIENCE** 
+I specialize in **PHP**, **Laravel**, **CodeIgniter 4 (CI4)**, **Wordpress**, **Shopify UI/API**, **Brightpearl API**, **Amazon Seller API**, **AWS**, **GCP** and **React.js**. My expertise extends to **ERP, CRM, and E-commerce development**, as well as **backend API integrations**. I love creating intuitive, efficient, and scalable solutions for businesses around the world. 🌍  
 
-Developed and maintained scalable web applications using **Laravel, Codeigniter** and **WordPress**, delivering high-quality, client-specific solutions. 
+---
 
-Worked extensively with **Google Cloud Platform (GCP)** tools, including **Schedulers**, **Storage**, **Tasks**, **BigQuery**, and **Workflows**, to build robust and efficient cloud-based systems. 
+## ✨ What I Offer:
+- **Backend Development:** PHP, Laravel, Magento, Node.js, CI4, Express.js.  
+- **Frontend Development:** React.js, HTML5, CSS3, Bootstrap 5, Tailwind CSS.  
+- **API Integration Expertise:**  
+  - **Payment Gateways:** Stripe, Omise, Razorpay, Tap payment.  
+  - **Shipping Services:** FedEx, UPS, DHL APIs.  
+  - **Social Media:** Facebook Graph API, LinkedIn API, Twitter API.  
+  - **Communication:** Twilio, WhatsApp Business API, Slack API.  
+  - **Cloud Services:** AWS SDK, Google Cloud APIs.  
 
-Leveraged **AWS Redshift** and **AWS Storage** for data warehousing and secure storage solutions. 
+- **E-commerce Development:** WooCommerce, Shopify, custom cart solutions.  
+- **ERP/CRM Development:** Custom solutions tailored to business needs.  
 
-Integrated multiple payment gateways such as **Razorpay**, **PayPal**, and **Stripe**, ensuring seamless transactional experiences. 
+---
 
-Implemented and managed call workflows using **Twilio**, including automated call flows and real- time communication solutions. 
+## 🌟 My Core Skills:
+- **Programming Languages:** PHP, JavaScript, TypeScript, Node.js, Typescript.  
+- **Frameworks & Libraries:** Laravel, CI4, React.js, Express.js, jQuery.  
+- **Databases:** MySQL, MongoDB, PostgreSQL, SQLite.  
+- **DevOps & Tools:** Git, Docker, CI/CD pipelines, AWS.  
+- **UI/UX Design:** Bootstrap, Tailwind CSS, Sass.  
 
-Worked with APIs such as **Brightpearl**, **Amazon Seller API**, **Shopify API**, and crafted **Shopify UI** customizations for seamless e-commerce functionality. 
+---
 
-Performed customizations and optimization for **WordPress** to enhance website performance and user engagement. 
+## 🌐 Find Me Online:
+- 🌍 [Portfolio Website](https://hitentankariya.in)  
+- 💼 [Upwork Profile](https://www.upwork.com/freelancers/hitentankariya2?mp_source=share)  
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/hiten-tankariya-990605171/)  
 
-Collaborated across cross-functional teams to plan, execute, and deploy solutions that drive business value. 
+---
 
-Focused exclusively on developing web applications using the **Laravel** framework. 
+## 🏆 Highlights of My Work:
+- Integrated multiple **payment gateways** (Stripe, Omise, PayPal, Razorpay, Tap payment) into various e-commerce platforms.  
+- Designed and implemented a **custom CRM** solution for a mid-sized healthcare organization, streamlining their client management process.  
+- Built an **ERP system** for a manufacturing company, enhancing production and inventory management.  
+- Migrated a legacy PHP application to **Laravel**, reducing server response time by 40%.  
+- Developed a scalable **React.js** frontend for a SaaS application, ensuring seamless user experience.  
 
-Built and maintained modular and efficient back-end systems to support client-specific functionalities. 
+---
 
-Collaborated with senior developers to integrate third-party APIs and implement robust database solutions. 
+## 🎨 Fun Fact:  
+I also enjoy designing clean and modern interfaces to create applications that are not just functional but also visually appealing! 🎨✨  
 
-Optimized application performance by resolving bottlenecks and debugging existing features. 
+---
 
-Gained in-depth knowledge of Laravel's ecosystem, including Eloquent ORM, Blade templating, and middleware. 
+## 📈 GitHub Stats  
 
-Began my career as a Full Stack Developer, working primarily with **Laravel** and **WordPress**. 
+![Hiten's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitentankariya&show_icons=true&theme=tokyonight)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hitentankariya&layout=compact&theme=tokyonight)](https://github.com/hitentankariya)  
 
-Developed dynamic and user-friendly websites and web applications, delivering tailored solutions for clients. 
+---
 
-Gained hands-on experience in front-end and back-end development, focusing on clean and scalable code. 
+## 📈 My Stats:
+- **GitHub Contributions:** Regular contributor to open-source and personal projects.  
+- **Upwork Ratings:** 5-star reviews from clients for excellent delivery and communication.  
+- **LinkedIn Network:** Growing professional connections in the tech industry.  
 
-Collaborated closely with design and QA teams to ensure high-quality deliverables within tight deadlines. 
+---
 
-Worked on multiple projects that enhanced technical and problem-solving skills, laying a solid foundation for my professional growth. 
-
-**SKILLS** 
-
-- Laravel
-- CodeIgniter 
-- WordPress Customization 
-- Shopify 
-- Bootstrap 4 & 5 
-- Responsive Web Design. 
+Feel free to connect with me for collaboration or hire me for your next big idea! 💡  
